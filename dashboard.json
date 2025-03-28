@@ -4,7 +4,7 @@
   },
   "series": [
     {
-      "name": "Visitors per month",
+      "name": "Visitors per month test",
       "data": [
         ["2014-01", 71173],
         ["2014-02", 57624],
